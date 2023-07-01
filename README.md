@@ -14,7 +14,7 @@ Chatty - A chatting application, made in flutter, designed with Material 3. Also
 
 ## Screenshots
 
-<img src="screenshots/1.png" width="170" alt="Screenshot 1"> <img src="screenshots/2.png" width="170" alt="Screenshot 2"> <img src="screenshots/3.png" width="170" alt="Screenshot 3"> <img src="screenshots/4.png" width="170" alt="Screenshot 4"> <br>
+<img src="screenshots/1.jpg" width="170" alt="Screenshot 1"> <img src="screenshots/2.jpg" width="170" alt="Screenshot 2"> <img src="screenshots/3.jpg" width="170" alt="Screenshot 3"> <img src="screenshots/4.jpg" width="170" alt="Screenshot 4"> <br>
 <img src="screenshots/5.png" width="170" alt="Screenshot 5"> <img src="screenshots/6.png" width="170" alt="Screenshot 6"> <img src="screenshots/7.png" width="170" alt="Screenshot 7"> <img src="screenshots/8.png" width="170" alt="Screenshot 8"> <img src="screenshots/9.png" width="170" alt="Screenshot 9">
 
 ## Installation
